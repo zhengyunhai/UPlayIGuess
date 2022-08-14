@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center">
+
+
+
+        <TextView
+            android:id="@+id/text_title_1"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:text="选择类型" />
+
+        <Button
+            android:id="@+id/but_dianying"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/text_title_1"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="电影" />
+
+        <Button
+            android:id="@+id/but_dianshiju"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_dianying"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="电视剧" />
+
+        <Button
+            android:id="@+id/but_gequ"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_dianshiju"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="歌曲" />
+
+        <Button
+            android:id="@+id/but_youxi"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_gequ"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="游戏" />
+
+        <Button
+            android:id="@+id/but_chengyu"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_youxi"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="成语" />
+
+        <Button
+            android:id="@+id/but_wupin"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_chengyu"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="物品" />
+
+
+        <Button
+            android:id="@+id/but_zongyi"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_wupin"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="综艺" />
+
+        <Button
+            android:id="@+id/but_zonghe"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_below="@+id/but_zongyi"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mydraw01"
+            android:text="综合" />
+
+
+
+
+
+
+
+</RelativeLayout>

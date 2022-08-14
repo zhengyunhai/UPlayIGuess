@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+
+    <film type="电影" name="《美国往事》"></film>
+    <film type="电影" name="《西部往事》"></film>
+    <film type="电影" name="《革命往事"></film>
+    <film type="电影" name="《土拨鼠之日"></film>
+    <teleplay type="电视剧" name="《老友记》"></teleplay>
+    <teleplay type="电视剧" name="《红楼梦》"></teleplay>
+    <teleplay type="电视剧" name="《三国演义》"></teleplay>
+    <teleplay type="电视剧" name="《人民的名义》"></teleplay>
+    <song type="歌曲" name="《新地球》"></song>
+    <song type="歌曲" name="《不为谁而作的歌》"></song>
+    <song type="歌曲" name="《美人鱼》"></song>
+    <song type="歌曲" name="《可惜没如果》"></song>
+    <song type="歌曲" name="《修炼爱情》"></song>
+    <song type="歌曲" name="《过》"></song>
+    <song type="歌曲" name="《我怀念的 (Live)》"></song>
+    <song type="歌曲" name="《江南》"></song>
+    <song type="歌曲" name="《飞云之下》"></song>
+    <song type="歌曲" name="《手心的蔷薇》"></song>
+    <song type="歌曲" name="《我们的爱 (Live)》"></song>
+    <song type="歌曲" name="《浪漫血液》"></song>
+    <song type="歌曲" name="《那些你很冒险的梦》"></song>
+    <song type="歌曲" name="《Always Online》"></song>
+    <song type="歌曲" name="《心墙》"></song>
+    <song type="歌曲" name="《不潮不用花钱》"></song>
+    <song type="歌曲" name="《学不会》"></song>
+    <song type="歌曲" name="《我还想她》"></song>
+    <song type="歌曲" name="《小酒窝》"></song>
+    <song type="歌曲" name="《爱要怎么说出口 (Live)》"></song>
+    <song type="歌曲" name="《加油！》"></song>
+    <song type="歌曲" name="《黑夜问白天》"></song>
+    <song type="歌曲" name="《背对背拥抱》"></song>
+    <song type="歌曲" name="《曹操》"></song>
+    <song type="歌曲" name="《裂缝中的阳光》"></song>
+    <song type="歌曲" name="《爱笑的眼睛》"></song>
+    <song type="歌曲" name="《当你》"></song>
+    <song type="歌曲" name="《她说》"></song>
+    <song type="歌曲" name="《裹着心的光》"></song>
+    <song type="歌曲" name="《醉赤壁》"></song>
+    <song type="歌曲" name="《交换余生》"></song>
+    <song type="歌曲" name="《爱不会绝迹》"></song>
+    <song type="歌曲" name="《Cries in a Distance》"></song>
+    <song type="歌曲" name="《期待爱》"></song>
+    <song type="歌曲" name="《至少还有你 (Live)》"></song>
+    <song type="歌曲" name="《将故事写成我们》"></song>
+    <song type="歌曲" name="《被风吹过的夏天》"></song>
+    <song type="歌曲" name="《杀手》"></song>
+    <song type="歌曲" name="《只对你有感觉》"></song>
+    <song type="歌曲" name="《知足 (Live)》"></song>
+    <song type="歌曲" name="《一千年以后》"></song>
+    <song type="歌曲" name="《生生》"></song>
+    <song type="歌曲" name="《一眼万年》"></song>
+    <song type="歌曲" name="《关键词》"></song>
+    <song type="歌曲" name="《江南/一千年以后(Live)》"></song>
+    <song type="歌曲" name="《사랑해요只对你说》"></song>
+    <song type="歌曲" name="《豆浆油条》"></song>
+    <song type="歌曲" name="《不死之身》"></song>
+    <song type="歌曲" name="《黑武士》"></song>
+    <song type="歌曲" name="《雪落下的声音 (Live)》"></song>
+    <song type="歌曲" name="《素颜》"></song>
+    <song type="歌曲" name="《有何不可》"></song>
+    <song type="歌曲" name="《雅俗共赏》"></song>
+    <song type="歌曲" name="《玫瑰花的葬礼》"></song>
+    <song type="歌曲" name="《多余的解释》"></song>
+    <song type="歌曲" name="《清明雨上》"></song>
+    <song type="歌曲" name="《幻听》"></song>
+    <song type="歌曲" name="《庐州月》"></song>
+    <song type="歌曲" name="《如果当时》"></song>
+    <song type="歌曲" name="《断桥残雪》"></song>
+    <song type="歌曲" name="《惊鸿一面》"></song>
+    <song type="歌曲" name="《灰色头像》"></song>
+    <song type="歌曲" name="《天龙八部之宿敌》"></song>
+    <song type="歌曲" name="《温泉》"></song>
+    <song type="歌曲" name="《千百度》"></song>
+    <song type="歌曲" name="《城府》"></song>
+    <song type="歌曲" name="《你若成风》"></song>
+    <song type="歌曲" name="《半城烟沙》"></song>
+    <song type="歌曲" name="《如约而至》"></song>
+    <song type="歌曲" name="《我想牵着你的手》"></song>
+    <song type="歌曲" name="《燕归巢》"></song>
+    <song type="歌曲" name="《最佳歌手》"></song>
+    <song type="歌曲" name="《山水之间》"></song>
+    <song type="歌曲" name="《我乐意》"></song>
+    <song type="歌曲" name="《留香》"></song>
+    <song type="歌曲" name="《认错》"></song>
+    <song type="歌曲" name="《千古》"></song>
+    <song type="歌曲" name="《七夕》"></song>
+    <song type="歌曲" name="《乌鸦》"></song>
+    <song type="歌曲" name="《想象之中》"></song>
+    <song type="歌曲" name="《拆东墙》"></song>
+    <song type="歌曲" name="《天知道》"></song>
+    <song type="歌曲" name="《叹服》"></song>
+    <song type="歌曲" name="《如果当时2020》"></song>
+    <song type="歌曲" name="《全球变冷》"></song>
+    <song type="歌曲" name="《今年勇》"></song>
+    <song type="歌曲" name="《摄影艺术》"></song>
+    <song type="歌曲" name="《星座书上》"></song>
+    <song type="歌曲" name="《明智之举》"></song>
+    <song type="歌曲" name="《医生》"></song>
+    <song type="歌曲" name="《微博控》"></song>
+    <song type="歌曲" name="《冰柜》"></song>
+    <song type="歌曲" name="《降温》"></song>
+    <song type="歌曲" name="《河山大好》"></song>
+    <song type="歌曲" name="《雨幕》"></song>
+    <song type="歌曲" name="《大千世界》"></song>
+    <song type="歌曲" name="《江湖》"></song>
+    <song type="歌曲" name="《弹指一挥间》"></song>
+    <song type="歌曲" name="《羡慕》"></song>
+    <song type="歌曲" name="《绝代风华》"></song>
+    <song type="歌曲" name="《天外来物》"></song>
+    <song type="歌曲" name="《我好像在哪见过你》"></song>
+    <song type="歌曲" name="《怪咖》"></song>
+    <song type="歌曲" name="《演员》"></song>
+    <song type="歌曲" name="《可》"></song>
+    <song type="歌曲" name="《刚刚好》"></song>
+    <song type="歌曲" name="《其实》"></song>
+    <song type="歌曲" name="《意外》"></song>
+    <song type="歌曲" name="《你还要我怎样》"></song>
+    <song type="歌曲" name="《认真的雪》"></song>
+    <song type="歌曲" name="《绅士》"></song>
+    <song type="歌曲" name="《动物世界》"></song>
+    <song type="歌曲" name="《关于你》"></song>
+    <song type="歌曲" name="《暧昧》"></song>
+    <song type="歌曲" name="《耗尽》"></song>
+    <song type="歌曲" name="《像风一样》"></song>
+    <song type="歌曲" name="《那是你离开了北京的生活》"></song>
+    <song type="歌曲" name="《陪你去流浪》"></song>
+    <song type="歌曲" name="《变废为宝》"></song>
+    <song type="歌曲" name="《一半》"></song>
+    <song type="歌曲" name="《方圆几里》"></song>
+    <song type="歌曲" name="《小尖尖》"></song>
+    <song type="歌曲" name="《丑八怪》"></song>
+    <song type="歌曲" name="《男二号》"></song>
+    <song type="歌曲" name="《野心》"></song>
+    <song type="歌曲" name="《天份》"></song>
+    <song type="歌曲" name="《不爱我》"></song>
+    <song type="歌曲" name="《违背的青春》"></song>
+    <song type="歌曲" name="《下雨了》"></song>
+    <song type="歌曲" name="《等我回家》"></song>
+    <song type="歌曲" name="《哑巴》"></song>
+    <song type="歌曲" name="《天后 (Live)》"></song>
+    <song type="歌曲" name="《木偶人》"></song>
+    <song type="歌曲" name="《笑场》"></song>
+    <song type="歌曲" name="《迟迟》"></song>
+    <song type="歌曲" name="《聊表心意》"></song>
+    <song type="歌曲" name="《最好》"></song>
+    <song type="歌曲" name="《纸船》"></song>
+    <song type="歌曲" name="《慢半拍》"></song>
+    <song type="歌曲" name="《病态》"></song>
+    <song type="歌曲" name="《别》"></song>
+    <song type="歌曲" name="《肆无忌惮》"></song>
+    <song type="歌曲" name="《彩券》"></song>
+    <song type="歌曲" name="《我害怕》"></song>
+    <song type="歌曲" name="《高尚》"></song>
+    <song type="歌曲" name="《洛城》"></song>
+    <song type="歌曲" name="《狐狸》"></song>
+    <song type="歌曲" name="《凤毛麟角》"></song>
+    <song type="歌曲" name="《有没有》"></song>
+    <song type="歌曲" name="《这么久没见》"></song>
+    <song type="歌曲" name="《像我这样的人》"></song>
+    <song type="歌曲" name="《消愁》"></song>
+    <song type="歌曲" name="《呓语》"></song>
+    <song type="歌曲" name="《给你给我》"></song>
+    <song type="歌曲" name="《借》"></song>
+    <song type="歌曲" name="《平凡的一天》"></song>
+    <song type="歌曲" name="《看得最远的地方》"></song>
+    <song type="歌曲" name="《聊聊》"></song>
+    <song type="歌曲" name="《不染》"></song>
+    <song type="歌曲" name="《一荤一素》"></song>
+    <song type="歌曲" name="《无名的人》"></song>
+    <song type="歌曲" name="《盛夏》"></song>
+    <song type="歌曲" name="《无问》"></song>
+    <song type="歌曲" name="《分分钟需要你 (Live)》"></song>
+    <song type="歌曲" name="《遥远的她 (Live)》"></song>
+    <song type="歌曲" name="《东北民谣》"></song>
+    <song type="歌曲" name="《想你想你》"></song>
+    <song type="歌曲" name="《生活在别处的你 Another me》"></song>
+    <song type="歌曲" name="《最佳损友 (Live)》"></song>
+    <song type="歌曲" name="《入海》"></song>
+    <song type="歌曲" name="《二零三》"></song>
+    <song type="歌曲" name="《下一站天后 (Live)》"></song>
+    <song type="歌曲" name="《如果有一天我变得很有钱》"></song>
+    <song type="歌曲" name="《可惜我是水瓶座 (Live)》"></song>
+    <song type="歌曲" name="《一程山路》"></song>
+    <song type="歌曲" name="《出去玩》"></song>
+    <song type="歌曲" name="《孤独患者 (Live)》"></song>
+    <song type="歌曲" name="《小王》"></song>
+    <song type="歌曲" name="《哎哟》"></song>
+    <song type="歌曲" name="《别再闹了》"></song>
+    <song type="歌曲" name="《弥敦道 (Live)》"></song>
+    <song type="歌曲" name="《星语心愿 (Live)》"></song>
+    <song type="歌曲" name="《不再犹豫 (Live)》"></song>
+    <song type="歌曲" name="《胡同》"></song>
+    <song type="歌曲" name="《东方之珠 (Live)》"></song>
+    <song type="歌曲" name="《17》"></song>
+    <song type="歌曲" name="《深夜一角》"></song>
+    <song type="歌曲" name="《南一道街》"></song>
+    <song type="歌曲" name="《水乡》"></song>
+    <song type="歌曲" name="《小王日记》"></song>
+    <song type="歌曲" name="《眉飞色舞 (Live)》"></song>
+    <song type="歌曲" name="《芬芳一生》"></song>
+    <song type="歌曲" name="《等》"></song>
+    <song type="歌曲" name="《城市傍晚》"></song>
+    <song type="歌曲" name="《借 (Live)》"></song>
+    <song type="歌曲" name="《狮子山下 (Live)》"></song>
+    <song type="歌曲" name="《我和我的祖国 (Live)》"></song>
+    <song type="歌曲" name="《感觉自己是巨星》"></song>
+    <song type="歌曲" name="《若有缘由》"></song>
+    <song type="歌曲" name="《于是没有洗头》"></song>
+    <song type="歌曲" name="《不将就》"></song>
+    <song type="歌曲" name="《年少有为》"></song>
+    <song type="歌曲" name="《戒烟》"></song>
+    <song type="歌曲" name="《麻雀》"></song>
+    <song type="歌曲" name="《模特》"></song>
+    <song type="歌曲" name="《慢冷 (Live)》"></song>
+    <song type="歌曲" name="《老街》"></song>
+    <song type="歌曲" name="《爸爸妈妈》"></song>
+    <song type="歌曲" name="《李白》"></song>
+    <song type="歌曲" name="《喜剧之王》"></song>
+    <song type="歌曲" name="《获奖人》"></song>
+    <song type="歌曲" name="《耳朵》"></song>
+    <song type="歌曲" name="《紫荆花盛开》"></song>
+    <song type="歌曲" name="《作曲家》"></song>
+    <song type="歌曲" name="《不说》"></song>
+    <song type="歌曲" name="《不搭》"></song>
+    <song type="歌曲" name="《对等关系》"></song>
+    <song type="歌曲" name="《习惯晚睡》"></song>
+    <song type="歌曲" name="《脱胎换骨》"></song>
+    <song type="歌曲" name="《王牌冤家 (Live)》"></song>
+    <song type="歌曲" name="《老伴》"></song>
+    <song type="歌曲" name="《上海滩+最爱上海滩 (Live)》"></song>
+    <song type="歌曲" name="《笑忘书 (Live)》"></song>
+    <song type="歌曲" name="《在一起嘛好不好》"></song>
+    <song type="歌曲" name="《山川》"></song>
+    <song type="歌曲" name="《歌谣》"></song>
+    <song type="歌曲" name="《纵横四海》"></song>
+    <song type="歌曲" name="《太坦白》"></song>
+    <song type="歌曲" name="《我们好好的》"></song>
+    <song type="歌曲" name="《出卖》"></song>
+    <song type="歌曲" name="《默 (Live)》"></song>
+    <song type="歌曲" name="《情人》"></song>
+    <song type="歌曲" name="《都一样》"></song>
+    <song type="歌曲" name="《边走边唱》"></song>
+    <song type="歌曲" name="《我看着你的时候》"></song>
+    <song type="歌曲" name="《有理想》"></song>
+    <song type="歌曲" name="《我知道是你》"></song>
+    <song type="歌曲" name="《小芳》"></song>
+    <song type="歌曲" name="《我爱你》"></song>
+    <song type="歌曲" name="《两个普普通通小青年》"></song>
+    <song type="歌曲" name="《贝贝》"></song>
+    <song type="歌曲" name="《落俗》"></song>
+    <song type="歌曲" name="《等着等着就老了》"></song>
+    <song type="歌曲" name="《老友记》"></song>
+    <song type="歌曲" name="《自拍》"></song>
+    <song type="歌曲" name="《祝你幸福》"></song>
+    <song type="歌曲" name="《成长之重量》"></song>
+    <song type="歌曲" name="《贫穷或富有》"></song>
+    <song type="歌曲" name="《女孩》"></song>
+    <song type="歌曲" name="《同根》"></song>
+    <song type="歌曲" name="《孤勇者》"></song>
+    <song type="歌曲" name="《最佳损友》"></song>
+    <song type="歌曲" name="《富士山下》"></song>
+    <song type="歌曲" name="《阴天快乐》"></song>
+    <song type="歌曲" name="《红玫瑰》"></song>
+    <song type="歌曲" name="《爱情转移》"></song>
+    <song type="歌曲" name="《好久不见》"></song>
+    <song type="歌曲" name="《不要说话》"></song>
+    <song type="歌曲" name="《陪你度过漫长岁月》"></song>
+    <song type="歌曲" name="《淘汰》"></song>
+    <song type="歌曲" name="《浮夸》"></song>
+    <song type="歌曲" name="《十年》"></song>
+    <song type="歌曲" name="《单车》"></song>
+    <song type="歌曲" name="《无条件》"></song>
+    <song type="歌曲" name="《葡萄成熟时》"></song>
+    <song type="歌曲" name="《我们》"></song>
+    <song type="歌曲" name="《因为爱情》"></song>
+    <song type="歌曲" name="《白玫瑰》"></song>
+    <song type="歌曲" name="《一丝不挂》"></song>
+    <song type="歌曲" name="《孤独患者》"></song>
+    <song type="歌曲" name="《是但求其爱》"></song>
+    <song type="歌曲" name="《内疚》"></song>
+    <song type="歌曲" name="《苦瓜》"></song>
+    <song type="歌曲" name="《粤语残片》"></song>
+    <song type="歌曲" name="《可以了》"></song>
+    <song type="歌曲" name="《落花流水》"></song>
+    <song type="歌曲" name="《娱乐天空》"></song>
+    <song type="歌曲" name="《稳稳的幸福》"></song>
+    <song type="歌曲" name="《你给我听好》"></song>
+    <song type="歌曲" name="《倾城 (Live)》"></song>
+    <song type="歌曲" name="《K歌之王》"></song>
+    <song type="歌曲" name="《约定(Live)》"></song>
+    <song type="歌曲" name="《完》"></song>
+    <song type="歌曲" name="《人来人往 (Live)》"></song>
+    <song type="歌曲" name="《陀飞轮》"></song>
+    <song type="歌曲" name="《遥远的她》"></song>
+    <song type="歌曲" name="《明年今日》"></song>
+    <song type="歌曲" name="《让我留在你身边》"></song>
+    <song type="歌曲" name="《兄妹》"></song>
+    <song type="歌曲" name="《于心有愧》"></song>
+    <song type="歌曲" name="《不如不见》"></song>
+    <song type="歌曲" name="《Shall We Talk (Tre Lune MMXIX)》"></song>
+    <song type="歌曲" name="《失忆蝴蝶》"></song>
+    <song type="歌曲" name="《沙龙》"></song>
+    <song type="歌曲" name="《与我常在 (Live In Hong Kong, 2013)》"></song>
+    <song type="歌曲" name="《无人之境》"></song>
+    <song type="歌曲" name="《斯德哥尔摩情人》"></song>
+    <song type="歌曲" name="《岁月如歌》"></song>
+    <song type="歌曲" name="《十面埋伏 (Live)》"></song>
+    <song type="歌曲" name="《夕阳无限好》"></song>
+    <song type="电影" name="《让子弹飞》"></song>
+    <song type="电影" name="《神奇动物：邓布利多之谜》"></song>
+    <song type="电影" name="《四海》"></song>
+    <song type="电影" name="《扬名立万》"></song>
+    <song type="电影" name="《你的名字。》"></song>
+    <song type="电影" name="《正义联盟：扎克·施奈德版》"></song>
+    <song type="电影" name="《教父》"></song>
+    <song type="电影" name="《肖申克的救赎》"></song>
+    <song type="电影" name="《星际穿越》"></song>
+    <song type="电影" name="《唐人街探案3》"></song>
+    <song type="电影" name="《黑暗阴影》"></song>
+    <song type="电影" name="《喜羊羊与灰太狼之筐出未来》"></song>
+    <song type="电影" name="《战狼》"></song>
+    <song type="电影" name="《环太平洋》"></song>
+    <song type="电影" name="《绿皮书》"></song>
+    <song type="电影" name="《哈利·波特与魔法石》"></song>
+    <song type="电影" name="《大世界扭蛋机》"></song>
+    <song type="电影" name="《功夫》"></song>
+    <song type="电影" name="《新蝙蝠侠》"></song>
+    <song type="电影" name="《末日之战》"></song>
+    <song type="电影" name="《声之形》"></song>
+    <song type="电影" name="《飞驰人生》"></song>
+    <song type="电影" name="《追凶者也》"></song>
+    <song type="电影" name="《头文字D》"></song>
+    <song type="电影" name="《无间道》"></song>
+    <song type="电影" name="《云霄之上》"></song>
+    <song type="电影" name="《猫鼠游戏》"></song>
+    <song type="电影" name="《疯狂的赛车》"></song>
+    <song type="电影" name="《中国惊奇先生》"></song>
+    <song type="电影" name="《神奇动物在哪里》"></song>
+    <song type="电影" name="《夺冠》"></song>
+    <song type="电影" name="《楚门的世界》"></song>
+    <song type="电影" name="《流浪地球》"></song>
+    <song type="电影" name="《武林外传》"></song>
+    <song type="电影" name="《大鱼海棠》"></song>
+    <song type="电影" name="《紫罗兰永恒花园 剧场版 》"></song>
+    <song type="电影" name="《无人区》"></song>
+    <song type="电影" name="《罗小黑战记》"></song>
+    <song type="电影" name="《哈利·波特与密室》"></song>
+    <song type="电影" name="《绣春刀》"></song>
+    <song type="电影" name="《狙击手》"></song>
+    <song type="电影" name="《惊天魔盗团 》"></song>
+    <song type="电影" name="《英雄本色》"></song>
+    <song type="电影" name="《白蛇2：青蛇劫起》"></song>
+    <song type="电影" name="《毒战》"></song>
+    <song type="电影" name="《触不可及》"></song>
+    <song type="电影" name="《新神榜：哪吒重生》"></song>
+    <song type="电影" name="《神秘海域》"></song>
+    <song type="电影" name="《指环王1：护戒使者》"></song>
+    <song type="电影" name="《盗梦空间》"></song>
+    <song type="电影" name="《烈日灼心》"></song>
+    <song type="电影" name="《天气之子》"></song>
+    <song type="电影" name="《天书奇谭》"></song>
+    <song type="电影" name="《明日边缘》"></song>
+    <song type="电影" name="《哈利·波特与阿兹卡班的囚徒》"></song>
+    <song type="电影" name="《憨豆特工》"></song>
+    <song type="电影" name="《建国大业》"></song>
+    <song type="电影" name="《命运之夜——天之杯：恶兆之花》"></song>
+    <song type="电影" name="《哈利·波特与火焰杯》"></song>
+    <song type="电影" name="《哥斯拉2：怪兽之王》"></song>
+    <song type="电影" name="《怦然心动》"></song>
+    <song type="电影" name="《八佰》"></song>
+    <song type="电影" name="《变形金刚》"></song>
+    <song type="电影" name="《惊天魔盗团2》"></song>
+    <song type="电影" name="《帝国的毁灭》"></song>
+    <song type="电影" name="《万万没想到》"></song>
+    <song type="电影" name="《海绵宝宝历险记》"></song>
+    <song type="电影" name="《全职高手之巅峰荣耀》"></song>
+    <song type="电影" name="《精灵旅社4：变身大冒险 》"></song>
+    <song type="电影" name="《阿甘正传》"></song>
+    <song type="电影" name="《霍比特人1：意外之旅》"></song>
+    <song type="电影" name="《沉默的羔羊》"></song>
+    <song type="电影" name="《007：无暇赴死》"></song>
+    <song type="电影" name="《蝙蝠侠：黑暗骑士》"></song>
+    <song type="电影" name="《了不起的盖茨比》"></song>
+    <song type="电影" name="《沙丘》"></song>
+    <song type="电影" name="《哈利·波特与混血王子》"></song>
+    <song type="电影" name="《哈利·波特与凤凰社》"></song>
+    <song type="电影" name="《亚当斯一家》"></song>
+    <song type="电影" name="《姜子牙》"></song>
+    <song type="电影" name="《茶馆》"></song>
+    <song type="电影" name="《蛛丝马迹》"></song>
+    <song type="电影" name="《海蒂和爷爷》"></song>
+    <song type="电影" name="《大世界扭蛋机 · 特别篇：明日之后》"></song>
+    <song type="电影" name="《一秒钟》"></song>
+    <song type="电影" name="《我们的父辈》"></song>
+    <song type="电影" name="《甲方乙方》"></song>
+    <song type="电影" name="《我是传奇》"></song>
+    <song type="电影" name="《温暖的抱抱》"></song>
+    <song type="电影" name="《盲探》"></song>
+    <song type="电影" name="《哈利·波特与死亡圣器(下)》"></song>
+    <song type="电影" name="《哆啦A梦：大雄的新恐龙》"></song>
+    <song type="电影" name="《浪客剑心》"></song>
+    <song type="电影" name="《初恋这件小事》"></song>
+    <song type="电影" name="《哈利·波特与死亡圣器(上)》"></song>
+    <song type="电影" name="《紫罗兰永恒花园外传：永远与自动手记人偶》"></song>
+    <song type="电影" name="《一出好戏》"></song>
+    <song type="电影" name="《入殓师》"></song>
+    <song type="电影" name="《刀剑神域：序列之争》"></song>
+    <song type="电影" name="《钢琴家》"></song>
+    <song type="歌曲" name="《Letting Go》"></song>
+    <song type="歌曲" name="《红色高跟鞋》"></song>
+    <song type="歌曲" name="《越来越不懂》"></song>
+    <song type="歌曲" name="《思念是一种病》"></song>
+    <song type="歌曲" name="《紫》"></song>
+    <song type="歌曲" name="《达尔文》"></song>
+    <song type="歌曲" name="《被驯服的象》"></song>
+    <song type="歌曲" name="《失语者》"></song>
+    <song type="歌曲" name="《空白格》"></song>
+    <song type="歌曲" name="《Nightglow》"></song>
+    <song type="歌曲" name="《停格》"></song>
+    <song type="歌曲" name="《我要给世界最悠长的湿吻》"></song>
+    <song type="歌曲" name="《Easy Come Easy go》"></song>
+    <song type="歌曲" name="《坠落》"></song>
+    <song type="歌曲" name="《别找我麻烦》"></song>
+    <song type="歌曲" name="《Easy Come Easy Go》"></song>
+    <song type="歌曲" name="《让浪漫作主》"></song>
+    <song type="歌曲" name="《陌生人》"></song>
+    <song type="歌曲" name="《下一次爱情来的时候》"></song>
+    <song type="歌曲" name="《重来》"></song>
+    <song type="歌曲" name="《半途》"></song>
+    <song type="歌曲" name="《Beautiful Love》"></song>
+    <song type="歌曲" name="《Into The Wild》"></song>
+    <song type="歌曲" name="《在哪里都很好》"></song>
+    <song type="歌曲" name="《下次见》"></song>
+    <song type="歌曲" name="《达尔文 II 进化版》"></song>
+    <song type="歌曲" name="《舞步》"></song>
+    <song type="歌曲" name="《十万毫升泪水》"></song>
+    <song type="歌曲" name="《周三的情书》"></song>
+    <song type="歌曲" name="《遗书》"></song>
+    <song type="歌曲" name="《纪念》"></song>
+    <song type="歌曲" name="《感动每一刻》"></song>
+    <song type="歌曲" name="《无底洞》"></song>
+    <song type="歌曲" name="《若你碰到他》"></song>
+    <song type="歌曲" name="《抛物线》"></song>
+    <song type="歌曲" name="《原点》"></song>
+    <song type="歌曲" name="《True Love》"></song>
+    <song type="歌曲" name="《谁》"></song>
+    <song type="歌曲" name="《思念》"></song>
+    <song type="歌曲" name="《路口》"></song>
+    <song type="歌曲" name="《全部的所有》"></song>
+    <song type="歌曲" name="《一个歌手的情书》"></song>
+    <song type="歌曲" name="《活着是最好的死亡》"></song>
+    <song type="歌曲" name="《如果你爱我》"></song>
+    <song type="歌曲" name="《白天不懂夜的黑》"></song>
+    <song type="歌曲" name="《当你离开的时候》"></song>
+    <song type="歌曲" name="《Bluebirds》"></song>
+    <song type="歌曲" name="《出走》"></song>
+    <song type="歌曲" name="《旧情歌》"></song>
+    <song type="歌曲" name="《记念》"></song>
+    <song type="歌曲" name="《New Boy》"></song>
+    <song type="歌曲" name="《云烟成雨》"></song>
+    <song type="歌曲" name="《所念皆星河》"></song>
+    <song type="歌曲" name="《斑马斑马》"></song>
+    <song type="歌曲" name="《我可以》"></song>
+    <song type="歌曲" name="《下一站茶山刘》"></song>
+    <song type="歌曲" name="《一个像夏天一个像秋天》"></song>
+    <song type="歌曲" name="《和宇宙的温柔关联》"></song>
+    <song type="歌曲" name="《美好事物》"></song>
+    <song type="歌曲" name="《秋酿》"></song>
+    <song type="歌曲" name="《请你一定要记得我好吗》"></song>
+    <song type="歌曲" name="《你是我最愚蠢的一次浪漫》"></song>
+    <song type="歌曲" name="《另一个天堂》"></song>
+    <song type="歌曲" name="《春风十里 (Live)》"></song>
+    <song type="歌曲" name="《离家最近的路》"></song>
+    <song type="歌曲" name="《短叹》"></song>
+    <song type="歌曲" name="《蝴蝶飞呀 + 红蜻蜓》"></song>
+    <song type="歌曲" name="《平凡之路》"></song>
+    <song type="歌曲" name="《谈恋爱前不如先养猫》"></song>
+    <song type="歌曲" name="《如常》"></song>
+    <song type="歌曲" name="《等我们老了，就定居在重庆》"></song>
+    <song type="歌曲" name="《刚好多好》"></song>
+    <song type="歌曲" name="《蝴蝶效应》"></song>
+    <song type="歌曲" name="《爱与喜欢的区别》"></song>
+    <song type="歌曲" name="《不知归期的故人》"></song>
+    <song type="歌曲" name="《爱你就像爱生命》"></song>
+    <song type="歌曲" name="《时光，一如既往》"></song>
+    <song type="歌曲" name="《这是你想要的生活吗》"></song>
+    <song type="歌曲" name="《不摇滚》"></song>
+    <song type="歌曲" name="《至此》"></song>
+    <song type="歌曲" name="《晚风轻起时》"></song>
+    <song type="歌曲" name="《此刻是不会再拥有的此刻了》"></song>
+    <song type="歌曲" name="《银河迪厅》"></song>
+    <song type="歌曲" name="《白》"></song>
+    <song type="歌曲" name="《给妈妈》"></song>
+    <song type="歌曲" name="《所以来吧》"></song>
+    <song type="歌曲" name="《是想你的声音啊 (《》歌手)》"></song>
+    <song type="歌曲" name="《美好事物-再遇少年》"></song>
+    <song type="歌曲" name="《火车开过破晓》"></song>
+    <song type="歌曲" name="《八月十五》"></song>
+    <song type="歌曲" name="《青鸟》"></song>
+    <song type="歌曲" name="《今夜的江滩公园没有烟花跨年》"></song>
+    <song type="歌曲" name="《是初恋是心动是你》"></song>
+    <song type="歌曲" name="《月亮拥抱我》"></song>
+    <song type="歌曲" name="《月亮鲸鱼》"></song>
+    <song type="歌曲" name="《今天是星期几》"></song>
+    <song type="歌曲" name="《柔软》"></song>
+    <song type="歌曲" name="《月亮都老了》"></song>
+    <song type="歌曲" name="《难得 (合唱版)》"></song>
+    <song type="歌曲" name="《躺在凌晨五点半的海岸》"></song>
+    <song type="歌曲" name="《这世界那么多人》"></song>
+    <song type="歌曲" name="《慢慢喜欢你》"></song>
+    <song type="歌曲" name="《一生所爱》"></song>
+    <song type="歌曲" name="《忽然之间》"></song>
+    <song type="歌曲" name="《盛夏的果实》"></song>
+    <song type="歌曲" name="《阴天》"></song>
+    <song type="歌曲" name="《电台情歌》"></song>
+    <song type="歌曲" name="《呼吸有害》"></song>
+    <song type="歌曲" name="《如果没有你》"></song>
+    <song type="歌曲" name="《外面的世界》"></song>
+    <song type="歌曲" name="《他不爱我》"></song>
+    <song type="歌曲" name="《只是不够爱》"></song>
+    <song type="歌曲" name="《那么爱你为什么》"></song>
+    <song type="歌曲" name="《爱》"></song>
+    <song type="歌曲" name="《广岛之恋》"></song>
+    <song type="歌曲" name="《分分钟需要你》"></song>
+    <song type="歌曲" name="《寂寞的恋人啊》"></song>
+    <song type="歌曲" name="《自洽》"></song>
+    <song type="歌曲" name="《初恋》"></song>
+    <song type="歌曲" name="《I Do》"></song>
+    <song type="歌曲" name="《爱情》"></song>
+    <song type="歌曲" name="《境外》"></song>
+    <song type="歌曲" name="《当你老了》"></song>
+    <song type="歌曲" name="《真的吗》"></song>
+    <song type="歌曲" name="《承诺(香港版)》"></song>
+    <song type="歌曲" name="《坚强的理由》"></song>
+    <song type="歌曲" name="《半生缘 (我们在这里相遇)》"></song>
+    <song type="歌曲" name="《手》"></song>
+    <song type="歌曲" name="《话题》"></song>
+    <song type="歌曲" name="《哪怕》"></song>
+    <song type="歌曲" name="《如初之光》"></song>
+    <song type="歌曲" name="《Am Pm》"></song>
+    <song type="歌曲" name="《十二楼》"></song>
+    <song type="歌曲" name="《北极光》"></song>
+    <song type="歌曲" name="《打起手鼓唱起歌》"></song>
+    <song type="歌曲" name="《世间始终你好》"></song>
+    <song type="歌曲" name="《瑕疵》"></song>
+    <song type="歌曲" name="《大地之歌》"></song>
+    <song type="歌曲" name="《Let's Fall In Love》"></song>
+    <song type="歌曲" name="《单人房双人床》"></song>
+    <song type="歌曲" name="《心领神会》"></song>
+    <song type="歌曲" name="《是这样吗》"></song>
+    <song type="歌曲" name="《采红菱 (live版)》"></song>
+    <song type="歌曲" name="《头号粉丝》"></song>
+    <song type="歌曲" name="《偷情》"></song>
+    <song type="歌曲" name="《恋一世的爱》"></song>
+    <song type="歌曲" name="《不散，不见》"></song>
+    <song type="歌曲" name="《冷》"></song>
+    <song type="歌曲" name="《再生》"></song>
+    <song type="歌曲" name="《午夜前的十分钟》"></song>
+    <song type="歌曲" name="《想去海边》"></song>
+    <song type="歌曲" name="《极恶都市》"></song>
+    <song type="歌曲" name="《人间萤火》"></song>
+    <song type="歌曲" name="《没有名字的夜晚》"></song>
+    <song type="歌曲" name="《人生浪费指南》"></song>
+    <song type="歌曲" name="《回不去的夏天》"></song>
+    <song type="歌曲" name="《夏末的歌》"></song>
+    <song type="歌曲" name="《愿望交换商店》"></song>
+    <song type="歌曲" name="《如同宿命反复重演的那一天》"></song>
+    <song type="歌曲" name="《勇气》"></song>
+    <song type="歌曲" name="《梦醒时分》"></song>
+    <song type="歌曲" name="《Pull The Trigger》"></song>
+    <song type="歌曲" name="《拜托》"></song>
+    <song type="歌曲" name="《度过此刻》"></song>
+    <song type="歌曲" name="《I Wanna Smile But What I Do》"></song>
+    <song type="歌曲" name="《🎇》"></song>
+    <song type="歌曲" name="《愿望交换商店不插电版》"></song>
+    <song type="歌曲" name="《极恶都市不插电版》"></song>
+    <song type="歌曲" name="《给十九岁自己的留言（Outro）》"></song>
+    <song type="歌曲" name="《Redemption（outro）》"></song>
+    <song type="歌曲" name="《想去海边（伴奏）》"></song>
+    <song type="歌曲" name="《Be baptized(intro)》"></song>
+    <song type="歌曲" name="《勇气 (伴奏)》"></song>
+    <song type="歌曲" name="《夏末的歌（伴奏）》"></song>
+    <song type="歌曲" name="《梦醒时分（伴奏）》"></song>
+    <song type="歌曲" name="《愿望交换商店（伴奏）》"></song>
+    <song type="歌曲" name="《第一万零一次告白 (伴奏)》"></song>
+    <song type="歌曲" name="《扑水少年》"></song>
+    <song type="歌曲" name="《知足》"></song>
+    <song type="歌曲" name="《温柔》"></song>
+    <song type="歌曲" name="《倔强》"></song>
+    <song type="歌曲" name="《恋爱ing》"></song>
+    <song type="歌曲" name="《拥抱》"></song>
+    <song type="歌曲" name="《第一天》"></song>
+    <song type="歌曲" name="《私奔到月球》"></song>
+    <song type="歌曲" name="《黑暗骑士》"></song>
+    <song type="歌曲" name="《天使》"></song>
+    <song type="歌曲" name="《盛夏光年》"></song>
+    <song type="歌曲" name="《时光机》"></song>
+    <song type="歌曲" name="《志明与春娇》"></song>
+    <song type="歌曲" name="《咸鱼》"></song>
+    <song type="歌曲" name="《人生海海》"></song>
+    <song type="歌曲" name="《一颗苹果》"></song>
+    <song type="歌曲" name="《彩虹》"></song>
+    <song type="歌曲" name="《让我照顾你》"></song>
+    <song type="歌曲" name="《干啦干啦》"></song>
+    <song type="歌曲" name="《超人》"></song>
+    <song type="歌曲" name="《听不到》"></song>
+    <song type="歌曲" name="《错错错》"></song>
+    <song type="歌曲" name="《爱情的模样》"></song>
+    <song type="歌曲" name="《而我知道》"></song>
+    <song type="歌曲" name="《我们 (时时刻刻)》"></song>
+    <song type="歌曲" name="《纯真》"></song>
+    <song type="歌曲" name="《王子面》"></song>
+    <song type="歌曲" name="《燕尾蝶 (Live)》"></song>
+    <song type="歌曲" name="《孙悟空》"></song>
+    <song type="歌曲" name="《相信》"></song>
+    <song type="歌曲" name="《大地之歌》"></song>
+    <song type="歌曲" name="《好不好》"></song>
+    <song type="歌曲" name="《恒星的恒心》"></song>
+    <song type="歌曲" name="《回来吧》"></song>
+    <song type="歌曲" name="《生命有一种绝对》"></song>
+    <song type="歌曲" name="《脱胎换骨》"></song>
+    <song type="歌曲" name="《牙关》"></song>
+    <song type="歌曲" name="《乱世浮生》"></song>
+    <song type="歌曲" name="《疯狂世界》"></song>
+    <song type="歌曲" name="《九号球》"></song>
+    <song type="歌曲" name="《憨人》"></song>
+    <song type="歌曲" name="《爱情万岁》"></song>
+    <song type="歌曲" name="《终结孤单》"></song>
+    <song type="歌曲" name="《恋爱ING》"></song>
+    <song type="歌曲" name="《明白》"></song>
+    <song type="歌曲" name="《垃圾车》"></song>
+    <song type="歌曲" name="《候鸟》"></song>
+    <song type="歌曲" name="《有你的将来》"></song>
+    <song type="歌曲" name="《雌雄同体》"></song>
+    <song type="歌曲" name="《嘿！我要走了》"></song>
+    <song type="歌曲" name="《I Love You 无望》"></song>
+    <song type="歌曲" name="《匆匆那年》"></song>
+    <song type="歌曲" name="《因为爱情》"></song>
+    <song type="歌曲" name="《传奇》"></song>
+    <song type="歌曲" name="《容易受伤的女人》"></song>
+    <song type="歌曲" name="《约定》"></song>
+    <song type="歌曲" name="《红豆》"></song>
+    <song type="歌曲" name="《暧昧》"></song>
+    <song type="歌曲" name="《暗涌》"></song>
+    <song type="歌曲" name="《百年孤寂》"></song>
+    <song type="歌曲" name="《你在终点等我》"></song>
+    <song type="歌曲" name="《人间》"></song>
+    <song type="歌曲" name="《给自己的情书》"></song>
+    <song type="歌曲" name="《梦中人》"></song>
+    <song type="歌曲" name="《爱与痛的边缘》"></song>
+    <song type="歌曲" name="《我和我的祖国》"></song>
+    <song type="歌曲" name="《执迷不悔 (粤语版)》"></song>
+    <song type="歌曲" name="《如风》"></song>
+    <song type="歌曲" name="《笑忘书》"></song>
+    <song type="歌曲" name="《矜持》"></song>
+    <song type="歌曲" name="《致青春》"></song>
+    <song type="歌曲" name="《流年》"></song>
+    <song type="歌曲" name="《但愿人长久》"></song>
+    <song type="歌曲" name="《清风徐来》"></song>
+    <song type="歌曲" name="《微风细雨 (Live)》"></song>
+    <song type="歌曲" name="《棋子》"></song>
+    <song type="歌曲" name="《我愿意》"></song>
+    <song type="歌曲" name="《闷》"></song>
+    <song type="歌曲" name="《又见炊烟》"></song>
+    <song type="歌曲" name="《邮差》"></song>
+    <song type="歌曲" name="《相约一九九八》"></song>
+    <song type="歌曲" name="《南海姑娘》"></song>
+    <song type="歌曲" name="《旋木》"></song>
+    <song type="歌曲" name="《无问西东》"></song>
+    <song type="歌曲" name="《清平调》"></song>
+    <song type="歌曲" name="《金刚经》"></song>
+    <song type="歌曲" name="《天空》"></song>
+    <song type="歌曲" name="《我也不想这样》"></song>
+    <song type="歌曲" name="《乘客》"></song>
+    <song type="歌曲" name="《尘埃》"></song>
+    <song type="歌曲" name="《催眠》"></song>
+    <song type="歌曲" name="《我爱你》"></song>
+    <song type="歌曲" name="《开到荼蘼》"></song>
+    <song type="歌曲" name="《影子》"></song>
+    <song type="歌曲" name="《偿还》"></song>
+    <song type="歌曲" name="《生命之河》"></song>
+    <song type="歌曲" name="《唱不完的歌》"></song>
+    <song type="歌曲" name="《怀念》"></song>
+    <song type="歌曲" name="《你快乐所以我快乐 (Live)》"></song>
+    <song type="歌曲" name="《最好的声音》"></song>
+    <song type="歌曲" name="《爱听谎言》"></song>
+    <song type="歌曲" name="《把回忆拼好给你》"></song>
+    <song type="歌曲" name="《一直很安静》"></song>
+    <song type="歌曲" name="《像鱼》"></song>
+    <song type="歌曲" name="《愿你余生漫长》"></song>
+    <song type="歌曲" name="《人间城》"></song>
+    <song type="歌曲" name="《往后余生》"></song>
+    <song type="歌曲" name="《爱你》"></song>
+    <song type="歌曲" name="《生死相随》"></song>
+    <song type="歌曲" name="《悔过》"></song>
+    <song type="歌曲" name="《你也没有错》"></song>
+    <song type="歌曲" name="《恋曲2018》"></song>
+    <song type="歌曲" name="《少一点天分（翻自 孙盛希）》"></song>
+    <song type="歌曲" name="《安河桥（Cover 宋冬野）》"></song>
+    <song type="歌曲" name="《你是年少的欢喜》"></song>
+    <song type="歌曲" name="《名为你的春》"></song>
+    <song type="歌曲" name="《后来（Cover 刘若英）》"></song>
+    <song type="歌曲" name="《小镇英雄青年》"></song>
+    <song type="歌曲" name="《喜欢（Cover 阿肆）》"></song>
+    <song type="歌曲" name="《蜜蜂》"></song>
+    <song type="歌曲" name="《背叛》"></song>
+    <song type="歌曲" name="《谁（Cover 廖俊涛）》"></song>
+    <song type="歌曲" name="《听我》"></song>
+    <song type="歌曲" name="《云烟成雨（Cover 房东的猫）》"></song>
+    <song type="歌曲" name="《盔甲》"></song>
+    <song type="歌曲" name="《盗将行》"></song>
+    <song type="歌曲" name="《超人》"></song>
+    <song type="歌曲" name="《梦游症》"></song>
+    <song type="歌曲" name="《余恨情长》"></song>
+    <song type="歌曲" name="《暗恋是一首按了静音的歌》"></song>
+    <song type="歌曲" name="《如何爱他像你》"></song>
+    <song type="歌曲" name="《秘爱》"></song>
+    <song type="歌曲" name="《致自己》"></song>
+    <song type="歌曲" name="《纸短情长（翻自 烟把儿）》"></song>
+    <song type="歌曲" name="《凡伴》"></song>
+    <song type="歌曲" name="《爱过》"></song>
+    <song type="歌曲" name="《无言》"></song>
+    <song type="歌曲" name="《不苦》"></song>
+    <song type="歌曲" name="《生命是一场梦游》"></song>
+    <song type="歌曲" name="《此类生物》"></song>
+    <song type="歌曲" name="《请你先遗忘》"></song>
+    <song type="歌曲" name="《换酒》"></song>
+    <song type="歌曲" name="《不是每趟爱情都能开往地老天荒》"></song>
+    <song type="歌曲" name="《二十岁的某一天（Cover 花粥）》"></song>
+    <song type="歌曲" name="《坠落（Cover 蔡健雅）》"></song>
+    <song type="歌曲" name="《情歌不流行了》"></song>
+    <song type="歌曲" name="《一个一个人》"></song>
+    <song type="歌曲" name="《骗自己（Cover AY楊佬叁）》"></song>
+    <song type="歌曲" name="《抛物线》"></song>
+    <song type="歌曲" name="《牵丝戏（Cover 银临&amp;Aki阿杰）》"></song>
+    <song type="歌曲" name="《EasyComeEasyGo（Cover 蔡健雅）》"></song>
+    <song type="歌曲" name="《外婆桥》"></song>
+    <song type="歌曲" name="《无人之岛》"></song>
+    <song type="歌曲" name="《雀跃》"></song>
+    <song type="歌曲" name="《疑心病》"></song>
+    <song type="歌曲" name="《凉城》"></song>
+    <song type="歌曲" name="《空空如也》"></song>
+    <song type="歌曲" name="《后继者》"></song>
+    <song type="歌曲" name="《山外小楼夜听雨》"></song>
+    <song type="歌曲" name="《那年》"></song>
+    <song type="歌曲" name="《一步之遥》"></song>
+    <song type="歌曲" name="《看穿》"></song>
+    <song type="歌曲" name="《花雨落》"></song>
+    <song type="歌曲" name="《走不出的回忆》"></song>
+    <song type="歌曲" name="《外愈》"></song>
+    <song type="歌曲" name="《对玄机》"></song>
+    <song type="歌曲" name="《爱过的人》"></song>
+    <song type="歌曲" name="《爱爱爱》"></song>
+    <song type="歌曲" name="《游子吟》"></song>
+    <song type="歌曲" name="《失恋俱乐部》"></song>
+    <song type="歌曲" name="《奇妙能力歌（cover陈粒）》"></song>
+    <song type="歌曲" name="《放任荒凉》"></song>
+    <song type="歌曲" name="《情绪挑拨》"></song>
+    <song type="歌曲" name="《有可能的夜晚》"></song>
+    <song type="歌曲" name="《飞机》"></song>
+    <song type="歌曲" name="《好想我是她》"></song>
+    <song type="歌曲" name="《可最后》"></song>
+    <song type="歌曲" name="《绿洲》"></song>
+    <song type="歌曲" name="《动物人》"></song>
+    <song type="歌曲" name="《飞鸟》"></song>
+    <song type="歌曲" name="《默读》"></song>
+    <song type="歌曲" name="《刁钻》"></song>
+    <song type="歌曲" name="《漆黑》"></song>
+    <song type="歌曲" name="《三生》"></song>
+    <song type="歌曲" name="《刚好》"></song>
+    <song type="歌曲" name="《冷暴力》"></song>
+    <song type="歌曲" name="《乡》"></song>
+    <song type="歌曲" name="《落笔太慌张》"></song>
+    <song type="歌曲" name="《时光游人》"></song>
+    <song type="歌曲" name="《唇语》"></song>
+    <song type="歌曲" name="《听说》"></song>
+    <song type="歌曲" name="《墨》"></song>
+    <song type="歌曲" name="《岁月神偷（Cover）Live》"></song>
+    <song type="歌曲" name="《想要拥抱你》"></song>
+    <song type="歌曲" name="《遇见你的时候所有星星都落到我头上（Cover 高姗）》"></song>
+    <song type="歌曲" name="《不舍》"></song>
+    <song type="歌曲" name="《毁灭》"></song>
+    <song type="歌曲" name="《东亭》"></song>
+    <song type="歌曲" name="《Y小姐》"></song>
+    <song type="歌曲" name="《恋爱中的犀牛》"></song>
+    <song type="歌曲" name="《半夏青春》"></song>
+    <song type="歌曲" name="《再见莫妮卡》"></song>
+    <song type="歌曲" name="《保留 (“”歌手)》"></song>
+    <song type="歌曲" name="《感情小孩》"></song>
+    <song type="歌曲" name="《睡在风里》"></song>
+    <song type="歌曲" name="《能不能不要上班》"></song>
+    <song type="歌曲" name="《尤加利盆栽》"></song>
+    <song type="歌曲" name="《执着》"></song>
+    <song type="歌曲" name="《爱人错过 (；歌手) (“”歌手)》"></song>
+    <song type="歌曲" name="《夜晚的潜水艇》"></song>
+    <song type="歌曲" name="《我相信 (Live)》"></song>
+    <song type="歌曲" name="《镜面人》"></song>
+    <song type="歌曲" name="《期待明天》"></song>
+    <song type="歌曲" name="《一个人的房间》"></song>
+    <song type="歌曲" name="《Super Star + 乡恋 + 光阴的故事 + 男儿当自强 + 我的中国心 (Live)》"></song>
+    <song type="歌曲" name="《在哪里都很好》"></song>
+    <song type="歌曲" name="《红玫瑰 (Live)》"></song>
+    <song type="歌曲" name="《角落》"></song>
+    <song type="歌曲" name="《仰望星空》"></song>
+    <song type="歌曲" name="《你好再见》"></song>
+    <song type="歌曲" name="《超越无限 (Live)》"></song>
+    <song type="歌曲" name="《独处》"></song>
+    <song type="歌曲" name="《因为》"></song>
+    <song type="歌曲" name="《爱过境迁》"></song>
+    <song type="歌曲" name="《微尘》"></song>
+    <song type="歌曲" name="《心恸》"></song>
+    <song type="歌曲" name="《青春没有终点 (Live)》"></song>
+    <song type="歌曲" name="《奇门遁甲》"></song>
+    <song type="歌曲" name="《泪眼问花》"></song>
+    <song type="歌曲" name="《摇滚天生大一号 (Live)》"></song>
+    <song type="歌曲" name="《失眠书 (Live)》"></song>
+    <song type="歌曲" name="《画你为牢》"></song>
+    <song type="歌曲" name="《找自己 (Live)》"></song>
+    <song type="歌曲" name="《红旗飘飘 (温情版)》"></song>
+    <song type="歌曲" name="《爱，无处不在》"></song>
+    <song type="歌曲" name="《给你一点颜色 (Live)》"></song>
+    <song type="歌曲" name="《天空你在哪儿》"></song>
+    <song type="歌曲" name="《斗战胜佛》"></song>
+    <song type="歌曲" name="《可是你没想到》"></song>
+    <song type="歌曲" name="《笑容》"></song>
+    <song type="歌曲" name="《燃烧的天空》"></song>
+    <song type="歌曲" name="《别像我》"></song>
+    <song type="歌曲" name="《多远都要在一起》"></song>
+    <song type="歌曲" name="《再见》"></song>
+    <song type="歌曲" name="《GLORIA》"></song>
+    <song type="歌曲" name="《光年之外》"></song>
+    <song type="歌曲" name="《句号》"></song>
+    <song type="歌曲" name="《红蔷薇白玫瑰》"></song>
+    <song type="歌曲" name="《倒数》"></song>
+    <song type="歌曲" name="《泡沫》"></song>
+    <song type="歌曲" name="《喜欢你》"></song>
+    <song type="歌曲" name="《手心的蔷薇》"></song>
+    <song type="歌曲" name="《来自天堂的魔鬼》"></song>
+    <song type="歌曲" name="《我的秘密》"></song>
+    <song type="歌曲" name="《画 (Live Piano Session II)》"></song>
+    <song type="歌曲" name="《写不完的温柔》"></song>
+    <song type="歌曲" name="《你不是真正的快乐 (Live)》"></song>
+    <song type="歌曲" name="《桃花诺》"></song>
+    <song type="歌曲" name="《A.I.N.Y. 爱你》"></song>
+    <song type="歌曲" name="《孤独》"></song>
+    <song type="歌曲" name="《龙卷风 (Live)》"></song>
+    <song type="歌曲" name="《Where Did You Go》"></song>
+    <song type="歌曲" name="《Where Did U Go》"></song>
+    <song type="歌曲" name="《攀登 (Live)》"></song>
+    <song type="歌曲" name="《A.I.N.Y.》"></song>
+    <song type="歌曲" name="《后会无期》"></song>
+    <song type="歌曲" name="《透明》"></song>
+    <song type="歌曲" name="《好想好想你》"></song>
+    <song type="歌曲" name="《差不多姑娘》"></song>
+    <song type="歌曲" name="《摩天动物园》"></song>
+    <song type="歌曲" name="《倒流时间》"></song>
+    <song type="歌曲" name="《两个你》"></song>
+    <song type="歌曲" name="《依然睡公主》"></song>
+    <song type="歌曲" name="《你把我灌醉》"></song>
+    <song type="歌曲" name="《回忆的沙漏 (国)》"></song>
+    <song type="歌曲" name="《很久以后》"></song>
+    <song type="歌曲" name="《超能力》"></song>
+    <song type="歌曲" name="《于是》"></song>
+    <song type="歌曲" name="《两个自己》"></song>
+    <song type="歌曲" name="《新的心跳》"></song>
+    <song type="歌曲" name="《睡公主》"></song>
+    <song type="歌曲" name="《Walk On Water》"></song>
+    <song type="歌曲" name="《爱你A.I.N.Y.2017》"></song>
+    <song type="歌曲" name="《平凡天使》"></song>
+    <song type="歌曲" name="《情人 (Live)》"></song>
+    <song type="歌曲" name="《别勉强》"></song>
+    <song type="歌曲" name="《盲点》"></song>
+    <song type="歌曲" name="《Fly Away (ft. KEY.L刘聪/刘炫廷) (Live)》"></song>
+    <song type="歌曲" name="《一路逆风》"></song>
+    <song type="歌曲" name="《如果没有你 (Live)》"></song>
+    <song type="歌曲" name="《有心人》"></song>
+    <song type="歌曲" name="《岩石里的花》"></song>
+
+
+
+
+</items>

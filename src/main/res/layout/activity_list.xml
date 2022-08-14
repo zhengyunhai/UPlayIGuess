@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ListActivity">
+
+    <TextView
+        android:id="@+id/text_counter"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/text_show"
+        android:text=""
+        android:gravity="center"
+        android:paddingBottom="20dp"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:background="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/but_pre"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/text_show"
+        android:layout_toLeftOf="@+id/text_show"
+        android:background="@drawable/mydraw01"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:text="上一个" />
+        <TextView
+            android:id="@+id/text_show"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:gravity="center"
+            android:text=""
+            android:layout_centerInParent="true"
+            android:textSize="21sp"
+            android:textColor="#000000"
+            />
+        <Button
+            android:id="@+id/but_next"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_toRightOf="@+id/text_show"
+            android:layout_below="@+id/text_show"
+            android:background="@drawable/mydraw01"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:text="下一个" />
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/img01"
+        android:layout_toLeftOf="@+id/text_show"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="60dp"
+        android:src="@drawable/img01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxHeight="300px"
+        android:maxWidth="300px"
+        />
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/img02"
+        android:layout_toRightOf="@+id/text_show"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="60dp"
+        android:src="@drawable/img02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxHeight="300px"
+        android:maxWidth="300px"
+        />
+
+    <TextView
+        android:id="@+id/shortinfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/text_show"
+        android:layout_alignLeft="@+id/text_show"
+        android:text=""
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:paddingBottom="5dp"
+        />
+
+</RelativeLayout>
